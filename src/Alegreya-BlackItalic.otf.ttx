@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Alegreya-BlackItalic.otf.GlyphOrder.ttx"/>
+  <head src="Alegreya-BlackItalic.otf._h_e_a_d.ttx"/>
+  <hhea src="Alegreya-BlackItalic.otf._h_h_e_a.ttx"/>
+  <maxp src="Alegreya-BlackItalic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Alegreya-BlackItalic.otf.O_S_2f_2.ttx"/>
+  <name src="Alegreya-BlackItalic.otf._n_a_m_e.ttx"/>
+  <cmap src="Alegreya-BlackItalic.otf._c_m_a_p.ttx"/>
+  <post src="Alegreya-BlackItalic.otf._p_o_s_t.ttx"/>
+  <CFF src="Alegreya-BlackItalic.otf.C_F_F_.ttx"/>
+  <hmtx src="Alegreya-BlackItalic.otf._h_m_t_x.ttx"/>
+  <kern src="Alegreya-BlackItalic.otf._k_e_r_n.ttx"/>
+</ttFont>
