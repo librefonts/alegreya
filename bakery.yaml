@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [Alegreya-Black.ttf.ttx, Alegreya-Italic.ttf.ttx, Alegreya-Bold.ttf.ttx,
+  Alegreya-BlackItalic.ttf.ttx, Alegreya-Regular.ttf.ttx, Alegreya-BoldItalic.ttf.ttx,
+  src/Alegreya-BlackItalic.otf.ttx, src/Alegreya-Regular.otf.ttx, src/Alegreya-BoldItalic.otf.ttx,
+  src/Alegreya-Black.otf.ttx, src/Alegreya-Bold.otf.ttx, src/Alegreya-Italic.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
